@@ -1,0 +1,19 @@
+-Siswa
+username: 11111
+password: siswa
+
+username: 56789
+password: siswa
+
+
+-Guru
+username: 66666666
+password: guru
+
+-Kesiswaan
+username: 52353231245
+password: guru
+
+-Admin
+username: admin
+password: admin
